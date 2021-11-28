@@ -487,7 +487,7 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Alejarse",
+ 	 	 	 	"trans": "Analgésico",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
@@ -567,7 +567,7 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away en Aerosol",
+ 	 	 	 	"trans": "Analgesico en Aerosol",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
@@ -1039,7 +1039,7 @@
  	 	 	 	"eng": "Chat exploit transmitter [UwU]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Un Moduwe de hack que intewcepta wos paquetes de chat de Gwobaw y wos modifica, weawizando un ataque de supwantación de identidad. \r\n          Twansfowma toda convewzación en el chat gwobaw en uwu Habla. Este efecto afecta a todos wos jugadowes duwante 10 minutos",
+ 	 	 	 	"trans": "Un Moduwo de hack que intewcepta wos paquetes de chat de Gwobaw y wos modifica, weawizando un ataque de supwantación de identidad. \r\n          Twansfowma toda convewzación en el chat gwobaw en uwu Habla. Este efecto afecta a todos wos jugadowes duwante 10 minutos",
  	 	 	 	"eng": "A expwoit moduwe that intewcepts gwobaw chat packages and modifies it, pewfowming man-in-the-middwe attack.\r\n         twansfowms aww speech at gwobaw chat to uwu speak. This effects aww pwayews fow 10 minutes"
  	 	 	}
  	 	},
@@ -1457,7 +1457,7 @@
  	 	},
  	 	"newbie": {
  	 	 	"name": {
- 	 	 	 	"trans": "Newbie con beneficio",
+ 	 	 	 	"trans": "Novato con beneficio",
  	 	 	 	"eng": "Newbie with benefit"
  	 	 	},
  	 	 	"description": {
@@ -1471,7 +1471,7 @@
  	 	 	 	"eng": "Allies and Friends"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Bienvenido a Cybercode Online, \r\n         Hacer amigos con personas en línea será muy útil para usted completar las misiones cooperativas, \r\n         Adelante Pregúntale a la gente en línea si tiene alguna pregunta :) \r\n         Recuerda, si spameas en el chat, serás silenciado por los moderadores.",
+ 	 	 	 	"trans": "Bienvenido a Cybercode Online, \r\n         Haz amigos con personas en línea te será muy útil para completar las misiones cooperativas, \r\n         Adelante pregúntale a las personas en línea si tienes alguna pregunta :) \r\n         Recuerda, si spameas en el chat, serás silenciado por los moderadores.",
  	 	 	 	"eng": "Welcome to CyberCode Online,\r\n        making friends with people online will be very useful for you to complete co-op quests,\r\n        go ahead ask people online if you have got any questions :)\r\n        Remember, if you spam in the chat, you will be muted by moderators."
  	 	 	}
  	 	},
@@ -1481,7 +1481,7 @@
  	 	 	 	"eng": "Reach printing rank 3"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "El nivel de artículos que imprime con los cachés están determinados por su rango de impresión, \r\n         sube de nivel tu rango de impresión para que pueda imprimir elementos de nivel superior. \r\n        \r\n         Puede encontrar la Impresora 3D Molecular en [Concentrador central], úselo para imprimir algunos cachés para subir de nivel tu rango de impresión",
+ 	 	 	 	"trans": "El nivel de artículos que imprimes con los cachés están determinados por su rango de impresión, \r\n         sube de nivel tu rango de impresión para que pueda imprimir elementos de nivel superior. \r\n        \r\n         Puedes encontrar la Impresora 3D Molecular en [Concentrador central], usalo para imprimir algunos cachés para subir de nivel tu rango de impresión",
  	 	 	 	"eng": "The level of itemS you print with Caches are determined by your Printing Rank,\r\n        level up your Printing Rank so you can print higher level items.\r\n        \r\n        You can find Molecular 3D Printer at [Central Hub], use it to print some caches to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -1491,7 +1491,7 @@
  	 	 	 	"eng": "Open Crate"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¡Abre 4 cajas en la mazmorra para conseguirlos dulces botones!",
+ 	 	 	 	"trans": "¡Abre 4 cajas en la mazmorra para conseguir los dulces botines!",
  	 	 	 	"eng": "Open 4 crates in dungeon to get them sweet loots!"
  	 	 	}
  	 	},
@@ -1596,7 +1596,7 @@
  	 	},
  	 	"playerDetails": {
  	 	 	"alias": {
- 	 	 	 	"trans": "Alias",
+ 	 	 	 	"trans": "Apodo",
  	 	 	 	"eng": "Alias"
  	 	 	},
  	 	 	"title": {
@@ -1706,7 +1706,7 @@
  	 	 	},
  	 	 	"stall": {
  	 	 	 	"sellItemButton": {
- 	 	 	 	 	"trans": "Poner el artículo a la venta",
+ 	 	 	 	 	"trans": "Poner artículo a la venta",
  	 	 	 	 	"eng": "Put Item On Sale"
  	 	 	 	},
  	 	 	 	"selectItemForSale": {
@@ -1915,14 +1915,14 @@
  	 	},
  	 	"setBio": {
  	 	 	"title": {
- 	 	 	 	"trans": "Ingrese tu biografía",
+ 	 	 	 	"trans": "Ingresa tu biografía",
  	 	 	 	"eng": "Enter your bio"
  	 	 	}
  	 	},
  	 	"clan": {
  	 	 	"selectDepositAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Porfavor ingrese la cantidad que desea depositar",
+ 	 	 	 	 	"trans": "Porfavor ingresa la cantidad que desea depositar",
  	 	 	 	 	"eng": "Please enter amount you want to deposit"
  	 	 	 	},
  	 	 	 	"detail": {
@@ -2029,7 +2029,7 @@
  	 	 	 	"eng": "Friend List"
  	 	 	},
  	 	 	"leaderBoard": {
- 	 	 	 	"trans": "Tabla de Clasificatoria",
+ 	 	 	 	"trans": "Tabla de Clasificación",
  	 	 	 	"eng": "Leaderboard"
  	 	 	},
  	 	 	"skipQueue": {
@@ -2450,7 +2450,7 @@
  	 	},
  	 	"gang": {
  	 	 	"confirmKickMember": {
- 	 	 	 	"trans": "¿Estás seguro de que quieres hechar a este jugador de tu banda?",
+ 	 	 	 	"trans": "¿Estás seguro de que quieres echar a este jugador de tu banda?",
  	 	 	 	"eng": "are you sure you want to kick this player from your gang?"
  	 	 	},
  	 	 	"memberContribution": {
@@ -2608,7 +2608,7 @@
  	 	 	 	"eng": "Welcome to"
  	 	 	},
  	 	 	"setCharacterNameTitle": {
- 	 	 	 	"trans": "Nombrar a tu personaje",
+ 	 	 	 	"trans": "Nombra tu personaje",
  	 	 	 	"eng": "Name your character"
  	 	 	},
  	 	 	"hasRefererCheckbox": {
@@ -2636,7 +2636,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"name"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Has establecido ${name} como su referente",
+ 	 	 	 	 	"trans": "Has establecido ${name} como tu referente",
  	 	 	 	 	"eng": "You have set ${name} as your referer"
  	 	 	 	}
  	 	 	},
@@ -2673,11 +2673,11 @@
  	 	 	 	 	 	"timeSkipMinutes",
  	 	 	 	 	 	"timeSkipCost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Omición global (${timeSkipMinutes} min, costo ${timeSkipCost} unidades)",
+ 	 	 	 	 	"trans": "Salto global (${timeSkipMinutes} min, costo ${timeSkipCost} unidades)",
  	 	 	 	 	"eng": "Global Skip (${timeSkipMinutes} Min, Cost ${timeSkipCost} Units)"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Omición global te permite omitir el tiempo de espera de AFK y terminarlo al instante. \n     Este efecto se aplicará a todos los jugadores que estn realizando tareas AFK",
+ 	 	 	 	 	"trans": "Salto global te permite omitir el tiempo de espera de AFK y terminarlo al instante. \n     Este efecto se aplicará a todos los jugadores que estn realizando tareas AFK",
  	 	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\n    this effect will be applied to all player performing AFK task"
  	 	 	 	}
  	 	 	},
@@ -2686,7 +2686,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Saltar tiempo gratuito (${itemSkipMinutes} min)",
+ 	 	 	 	 	"trans": "Salto de tiempo gratuito (${itemSkipMinutes} min)",
  	 	 	 	 	"eng": "Free time skip (${itemSkipMinutes} Min)"
  	 	 	 	},
  	 	 	 	"description": {
@@ -2700,7 +2700,7 @@
  	 	 	},
  	 	 	"inProgressBox": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Omición global en progreso",
+ 	 	 	 	 	"trans": "Salto global en progreso",
  	 	 	 	 	"eng": "Global Skip in progress"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -2712,7 +2712,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Omición global le permite omitir el tiempo de espera AFK y terminarlo al instante. \n     Este efecto se aplicará a todos los jugadores que estén realizando tareas AFK",
+ 	 	 	 	"trans": "Salto global le permite omitir el tiempo de espera AFK y terminarlo al instante. \n     Este efecto se aplicará a todos los jugadores que estén realizando tareas AFK",
  	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\n    this effect will be applied to all players performing an AFK task"
  	 	 	},
  	 	 	"confirmModal": {
@@ -2721,7 +2721,7 @@
  	 	 	 	 	"eng": "Confirm use skip?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Omición global saltará el tiempo de espera para que todos los jugadores realizan una tarea AFK",
+ 	 	 	 	 	"trans": "Salto global saltará el tiempo de espera para que todos los jugadores realizan una tarea AFK",
  	 	 	 	 	"eng": "Global Skip will skip the waiting time for all players performing AFK task"
  	 	 	 	}
  	 	 	}
